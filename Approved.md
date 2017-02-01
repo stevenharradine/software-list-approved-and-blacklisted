@@ -4,6 +4,7 @@
  * vlc
  * kodi
  * firefox
+
 ## Desktop
  * Ubuntu
  * KDE
