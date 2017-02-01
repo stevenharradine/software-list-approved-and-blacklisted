@@ -15,6 +15,7 @@
  * Pi-Hole
  * chromium
  * veracrypt
+ * owncloud
 
 ## Mobile
  * whatsapp
