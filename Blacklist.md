@@ -12,4 +12,4 @@ This software is not safe for use, often will comproise your privacy or put your
 
 ## Android
  * ES File Explorer - once a great software, its bloated ad filled and i suspect some tests will say calling home too.
- 
+ * owncloud - they want $$$ for an opensource product
