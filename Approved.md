@@ -13,7 +13,7 @@
  * redis
  * mariaDB
  * Pi-Hole
- * chromium
+ * IceCat
  * veracrypt
  * owncloud
 
