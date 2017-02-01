@@ -13,3 +13,4 @@
  * mariaDB
  * Pi-Hole
  * chromium
+ * veracrypt
