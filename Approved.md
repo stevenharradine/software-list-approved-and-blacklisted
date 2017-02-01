@@ -19,3 +19,5 @@
 
 ## Mobile
  * whatsapp
+ * owncloud ([from source](https://github.com/owncloud/android), not from the app stores!)
+ 
