@@ -14,3 +14,7 @@
  * Pi-Hole
  * chromium
  * veracrypt
+
+## Mobile
+ * whatsapp
+ 
