@@ -4,6 +4,7 @@
  * vlc
  * kodi
  * firefox
+ * OpenVPN (client/server)
 
 ## Desktop
  * Ubuntu
@@ -17,4 +18,3 @@
 
 ## Mobile
  * whatsapp
- 
