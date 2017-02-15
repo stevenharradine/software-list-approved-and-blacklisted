@@ -1,5 +1,5 @@
 # Windows
-The vain of my existance.  If you must use this aweful operating system you need be [smart when using the Internet]().
+The bane of my existance.  If you must use this aweful operating system you need be [smart when using the Internet]().
 
 and also follow these tips:
  * should be using 7, 8 or 8.1 (10 you cannot disable telemetry data in the consumer product and as a result is blacklisted)
