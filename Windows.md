@@ -4,6 +4,7 @@ The bane of my existance.  If you must use this aweful operating system you need
 and also follow these tips:
  * should be using 7, 8 or 8.1 (10 you cannot disable telemetry data in the consumer product and as a result is blacklisted)
  * [disable telemetry data collection](http://superuser.com/questions/972501/how-to-stop-microsoft-from-gathering-telemetry-data-from-windows-7-8-and-8-1)
+ * enable [showing file extentions](https://www.howtohaven.com/system/show-file-extensions-in-windows-explorer.shtml)
  * enable User Access Controls UAC
  
  ```C:\Windows\System32\cmd.exe /k %windir%\System32\reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD /d 1 /f```
